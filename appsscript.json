@@ -1,0 +1,15 @@
+{
+  "timeZone": "GMT",
+  "dependencies": {
+  },
+  "dataStudio": {
+    "name": "CENACE - PML",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/%22npm%22%20lockup/npm-logo-simplifed-with-white-space.png",
+    "company": "Oswaldo Del Toro",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Get hourly prices by date on a given node",
+    "sources": ["PML","MDA"]
+  }
+}
